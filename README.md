@@ -3,8 +3,8 @@
 
 ### GOAL ###
 
-1. **Send telemetry from a device to an IoT hub**  * *Web scraping was used to obtain the real-time weather data in Sydney instead of using an IoT device such as Raspberry Pi*
-2. **Visualize real-time sensor data from Azure IoT hub using Power BI**
+1. **Send telemetry from a device to an IoT hub**  * *Web scraping was used in order to obtain the real-time weather data in Sydney instead of using an IoT device such as Raspberry Pi*
+2. **Visualize the real-time data from Azure IoT hub using Power BI**
 
 
 ### STEPS ###
