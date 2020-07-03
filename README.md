@@ -24,3 +24,5 @@
 ![createHub](https://github.com/hiroki0116/MSA-iot-2020/blob/image/powerBI.png)
 
 
+Power BI
+https://app.powerbi.com/view?r=eyJrIjoiZjBhN2Q3M2YtNzUzNy00NjU1LWE3OTAtNWM0MGU0YjkwNGEyIiwidCI6ImM5MTI3YzM5LTVkZDgtNDNiOC1iODRiLTNlYTI4MjViMDZjNyJ9
