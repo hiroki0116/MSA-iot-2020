@@ -17,10 +17,10 @@
 ```
 3. Send real-time data by running the local python program and send to Iot hub. Obtain live data of 'temperature', 'apparent tempereture' and 'humidiity' in Sydney every 5 minutes
 ![createHub](https://github.com/hiroki0116/MSA-iot-2020/blob/image/createHub.png)
-4. Read the telemetry from Iot hub
-5. Configure Stream Analytics Jobs on Azure to trasfer the data to Power BI
+
+4. Configure Stream Analytics Jobs on Azure to trasfer the data to Power BI
 ![createHub](https://github.com/hiroki0116/MSA-iot-2020/blob/image/streamAnalyticsJob.png)
-6. Shape the data
+5. Shape the data
 ![createHub](https://github.com/hiroki0116/MSA-iot-2020/blob/image/powerBI.png)
 
 
